@@ -1,0 +1,7 @@
+[project]
+name = "genpark-git-diff-semantic-reviewer-and-breaking-change-detector-skill"
+version = "1.0.0"
+description = "Parses unified git diffs to detect breaking API signature changes, removed public functions, and leaked secrets"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
