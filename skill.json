@@ -1,0 +1,8 @@
+{
+  "name": "genpark-git-diff-semantic-reviewer-and-breaking-change-detector-skill",
+  "version": "1.0.0",
+  "description": "Parses unified git diffs to detect breaking API signature changes, removed public functions, and leaked secrets",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
