@@ -4,5 +4,8 @@
   "description": "Parses unified git diffs to detect breaking API signature changes, removed public functions, and leaked secrets",
   "entrypoint": "client.py",
   "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
   "license": "MIT"
 }
